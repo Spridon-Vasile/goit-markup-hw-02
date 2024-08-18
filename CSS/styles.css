@@ -22,19 +22,19 @@
     font-style: normal;
 }
 
+.contact-item {
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
 .nav-item:hover {
     color: #404BBF;
 }
 
 .nav-item:focus {
-    color: #404BBF;
-}
-
-.contact-item:hover{
-    color: #404BBF;
-}
-
-.contact-item:focus {
     color: #404BBF;
 }
 
