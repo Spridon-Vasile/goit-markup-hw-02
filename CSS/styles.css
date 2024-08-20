@@ -80,7 +80,7 @@ a {
     text-decoration: underline;
 }
 
-button {
+.order-button {
     cursor: pointer;
 }
 
@@ -100,4 +100,8 @@ button {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+}
+
+.first-section {
+    background-color: #2e2f42;
 }
