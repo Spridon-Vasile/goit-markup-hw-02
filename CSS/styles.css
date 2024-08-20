@@ -80,10 +80,6 @@ a {
     text-decoration: underline;
 }
 
-.order-button {
-    cursor: pointer;
-}
-
 .nav-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -112,4 +108,18 @@ a {
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
+}
+
+.order-button {
+    cursor: pointer;
+    background-color:#4D5AE5;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+
+.order-button:hover,
+.order-button:focus {
+    background-color: #404BBF;
 }
