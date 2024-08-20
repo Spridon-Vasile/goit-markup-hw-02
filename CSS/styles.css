@@ -135,3 +135,14 @@ a {
 .content-articol {
     letter-spacing: 0.02em;
 }
+
+.third-section {
+    background-color: #F4F4FD;
+}
+
+.team {
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
