@@ -168,3 +168,16 @@ a {
 .element-description {
     letter-spacing: 0.02em;
 }
+
+.footer {
+    color: #2e2f42;
+}
+
+.studio {
+    color: #f4f4fd;
+}
+
+.footer-text {
+    color: #F4F4FD;
+    letter-spacing: 0,02em;
+}
